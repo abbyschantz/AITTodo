@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T-REX</string>
+    <string name="btnAdd">Contribute</string>
+    <string name="btnDiscover">Discover</string>
+</resources>
